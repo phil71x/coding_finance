@@ -7,3 +7,5 @@ six==1.16.0
 tzdata==2023.3
 matplotlib
 beautifulsoup4
+statsmodels
+yfinance
