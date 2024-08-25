@@ -21,6 +21,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "jupyter>=1.0.0",
     "pyfolio-reloaded>=0.9.7",
+    "zipline-reloaded>=3.0.4",
 ]
 requires-python = "==3.9.*"
 readme = "README.md"
