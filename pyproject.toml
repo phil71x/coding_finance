@@ -20,6 +20,10 @@ distribution = false
 python_use_pyenv = false
 python_path = "C:/Users/phil7/OneDrive/Code/coding_finance/.venv/Scripts/python.exe"
 
+[tool.pdm.dev-dependencies]
+vscode = [
+    "ipykernel>=6.29.5",
+]
 [tool.pylint.format]
 # Compatibility with black
 max-line-length = "88"
