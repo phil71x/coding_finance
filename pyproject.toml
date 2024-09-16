@@ -23,7 +23,7 @@ python_use_pyenv = false
 vscode = [
     "ipykernel>=6.29.5"
     ]
-common = {path = "../common", develop = true}
+# common = {path = "../common", develop = true}
 dev = [
     "black>=24.8.0",
     "pylint>=3.2.7",
