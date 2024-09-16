@@ -14,12 +14,10 @@ requires-python = "==3.9.*"
 readme = "README.md"
 license = {text = "MIT"}
 
-
 [tool.pdm]
 distribution = false
 python_use_pyenv = false
 # python_path = "C:/Users/phil7/OneDrive/Code/coding_finance/.venv/Scripts/python.exe"
-
 
 [tool.pdm.dev-dependencies]
 vscode = [
@@ -30,7 +28,6 @@ dev = [
     "black>=24.8.0",
     "pylint>=3.2.7",
 ]
-
 
 [tool.pylint.format]
 # Compatibility with black
