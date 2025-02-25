@@ -12,6 +12,7 @@ dependencies = [
     "statsmodels>=0.14.4",
     "pandas-datareader>=0.10.0",
     "yfinance>=0.2.54",
+    "pyfolio-reloaded>=0.9.8",
 ]
 requires-python = "==3.9.*"
 readme = "README.md"
